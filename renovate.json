@@ -3,5 +3,6 @@
     "config:base"
   ],
   "forkProcessing": "enabled",
+  "prHourlyLimit": 100,
   "ignorePresets": [":prHourlyLimit2"]
 }

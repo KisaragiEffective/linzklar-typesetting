@@ -2,5 +2,6 @@
   "extends": [
     "config:base"
   ],
-  "forkProcessing": "enabled"
+  "forkProcessing": "enabled",
+  "ignorePresets": [":prHourlyLimit2"]
 }
